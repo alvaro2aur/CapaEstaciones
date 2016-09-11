@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/alvaro/NetBeansProjects/Capa%20estaciones/src/ManejoArchivos/Archivos.java</file>
-            <file>file:/home/alvaro/NetBeansProjects/Capa%20estaciones/src/ManejoArchivos/TXT.java</file>
-            <file>file:/home/alvaro/NetBeansProjects/Capa%20estaciones/src/capa/estaciones/CapaEstaciones.java</file>
-            <file>file:/home/alvaro/NetBeansProjects/Capa%20estaciones/src/ManejoArchivos/XLSX.java</file>
+            <file>file:/home/alvaro/NetBeansProjects/CapaEstaciones/src/capa/estaciones/CapaEstaciones.java</file>
+            <file>file:/home/alvaro/NetBeansProjects/CapaEstaciones/src/ManejoArchivos/XLSX.java</file>
+            <file>file:/home/alvaro/NetBeansProjects/CapaEstaciones/src/ManejoArchivos/TXT.java</file>
         </group>
     </open-files>
 </project-private>
